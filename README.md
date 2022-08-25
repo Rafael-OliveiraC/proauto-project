@@ -1,5 +1,3 @@
-# proauto-project
- 
 # Projeto ProAuto
 
 Foi utilizado ReactJS para a aplicação do layout e de suas funcionalidades,
