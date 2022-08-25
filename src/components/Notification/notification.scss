@@ -1,0 +1,19 @@
+#notification{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.3);
+    margin: 1rem;
+    padding: 0.75rem;
+    right: -100%;
+    font-family: 'montserrat',sans-serif;
+    border-radius: 1rem;
+    transition: all ease-in-out 500ms;
+    z-index: 9;
+
+    &.show{
+        right: 0;
+    }
+}
+

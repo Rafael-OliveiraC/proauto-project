@@ -1,0 +1,242 @@
+[
+	{
+		"Marca": "JAC",
+		"Modelo": "T5 1.5 JET Flex 16V 5p Mec.",
+		"Ano": "2016",
+		"RENAVAM": "06749017227",
+		"Placa": "AYM-4432",
+		"Cor": "Cinza"
+	},
+	{
+		"Marca": "Engesa",
+		"Modelo": "Engesa 4x4 4.0 Diesel",
+		"Ano": "1986",
+		"RENAVAM": "46314071944",
+		"Placa": "KBU-5130",
+		"Cor": "Amarelo"
+	},
+	{
+		"Marca": "Rover",
+		"Modelo": "Mini Cooper 1.3",
+		"Ano": "1992",
+		"RENAVAM": "70946849693",
+		"Placa": "HZL-2165",
+		"Cor": "Vermelho"
+	},
+	{
+		"Marca": "Walk",
+		"Modelo": "Buggy  Walk Sport 1.6 8V 58cv",
+		"Ano": "2005",
+		"RENAVAM": "60421578592",
+		"Placa": "ALWE-2333YM",
+		"Cor": "Bege"
+	},
+	{
+		"Marca": "LOBINI",
+		"Modelo": "H1 1.8 20V Turbo 180cv 2p",
+		"Ano": "2005",
+		"RENAVAM": "16684928457",
+		"Placa": "KEI-9342",
+		"Cor": "Branco"
+	},
+	{
+		"Marca": "Lexus",
+		"Modelo": "LS 400 4.0",
+		"Ano": "1991",
+		"RENAVAM": "79366021928",
+		"Placa": "NDH-2567",
+		"Cor": "Branco"
+	},
+	{
+		"Marca": "Mitsubishi",
+		"Modelo": "Pajero GLS 3.0 V6 2p Aut.",
+		"Ano": "1993",
+		"RENAVAM": "75785599500",
+		"Placa": "MBZ-6488",
+		"Cor": "Bege"
+	},
+	{
+		"Marca": "Renault",
+		"Modelo": "Master 2.5 dCi Vitr",
+		"Ano": "2012",
+		"RENAVAM": "77894213340",
+		"Placa": "HOY-9270",
+		"Cor": "Prata"
+	},
+	{
+		"Marca": "LAMBORGHINI",
+		"Modelo": "Gallardo Coupe LP560-4",
+		"Ano": "2010",
+		"RENAVAM": "51740227763",
+		"Placa": "HOU-0344",
+		"Cor": "Branco"
+	},
+	{
+		"Marca": "Acura",
+		"Modelo": "Legend 3.2/3.5",
+		"Ano": "1991",
+		"RENAVAM": "89247425453",
+		"Placa": "JIZ-5371",
+		"Cor": "Cinza"
+	},
+	{
+		"Marca": "Volvo",
+		"Modelo": "S60 T-6 R-DESIGN 2.0 306cv FWD 4p",
+		"Ano": "2015",
+		"RENAVAM": "09372054513",
+		"Placa": "NAH-9173",
+		"Cor": "Dourado"
+	},
+	{
+		"Marca": "Maserati",
+		"Modelo": "Ghibli 2.0 V6",
+		"Ano": "1993",
+		"RENAVAM": "35935338139",
+		"Placa": "LWQ-2173",
+		"Cor": "Verde"
+	},
+	{
+		"Marca": "JAC",
+		"Modelo": "J3 S 1.5 JET Flex 16v VVT 5p",
+		"Ano": "19201386",
+		"RENAVAM": "67011049058",
+		"Placa": "BBI-8603",
+		"Cor": "Dourado"
+	},
+	{
+		"Marca": "Saturn",
+		"Modelo": "SL-2 1.9",
+		"Ano": "1991",
+		"RENAVAM": "65859562080",
+		"Placa": "MOG-2880",
+		"Cor": "Vermelho"
+	},
+	{
+		"Marca": "AM Gen",
+		"Modelo": "Hummer Open-Top 6.5 4x4 Diesel TB",
+		"Ano": "1998",
+		"RENAVAM": "74567523440",
+		"Placa": "JRD-4603",
+		"Cor": "Amarelo"
+	},
+	{
+		"Marca": "Pontiac",
+		"Modelo": "Trans-Sport SE 3.1",
+		"Ano": "1991",
+		"RENAVAM": "34090247323",
+		"Placa": "MQT-8490",
+		"Cor": "Prata"
+	},
+	{
+		"Marca": "ASTON MARTIN",
+		"Modelo": "Vantage 6.0 V12 510cv",
+		"Ano": "2012",
+		"RENAVAM": "53016199163",
+		"Placa": "LWE-9394",
+		"Cor": "Branco"
+	},
+	{
+		"Marca": "Nissan",
+		"Modelo": "Pathfinder XE 4x4",
+		"Ano": "1991",
+		"RENAVAM": "99091470063",
+		"Placa": "DEW-6902",
+		"Cor": "Marrom"
+	},
+	{
+		"Marca": "EFFA",
+		"Modelo": "V21 Pick-up CS 1.3 16V 2p",
+		"Ano": "19201686",
+		"RENAVAM": "11249934731",
+		"Placa": "HOY-4268",
+		"Cor": "Marrom"
+	},
+	{
+		"Marca": "Maserati",
+		"Modelo": "GranSport Spyder 4.2 V8 32V 400cv",
+		"Ano": "2006",
+		"RENAVAM": "24100814171",
+		"Placa": "MNU-6928",
+		"Cor": "Branco"
+	},
+	{
+		"Marca": "Mitsubishi",
+		"Modelo": "Pajero Sport 3.0 4x4 V6 Mec./Aut.",
+		"Ano": "1999",
+		"RENAVAM": "12390066099",
+		"Placa": "KBR-4417",
+		"Cor": "Marrom"
+	},
+	{
+		"Marca": "Dodge",
+		"Modelo": "Ram 2500 H.DUTY 5.9 SLT 24V CD 4x4 Dies.",
+		"Ano": "2004",
+		"RENAVAM": "96539534204",
+		"Placa": "LEA-3684",
+		"Cor": "Vermelho"
+	},
+	{
+		"Marca": "Toyota",
+		"Modelo": "ETIOS X Sedan 1.5 Flex 16V 4p Mec.",
+		"Ano": "2013",
+		"RENAVAM": "15202569819",
+		"Placa": "NEM-9495",
+		"Cor": "Amarelo"
+	},
+	{
+		"Marca": "GM - Chevrolet",
+		"Modelo": "S10 Pick-Up Exec. 2.8 4x2 CD TB Int.Dies",
+		"Ano": "2005",
+		"RENAVAM": "04932746988",
+		"Placa": "FNF-4987",
+		"Cor": "Marrom"
+	},
+	{
+		"Marca": "Troller",
+		"Modelo": "T-4 4x4 2.8 TB Int. Cap. Lona Diesel",
+		"Ano": "2001",
+		"RENAVAM": "31046130810",
+		"Placa": "IAP-3441",
+		"Cor": "Azul"
+	},
+	{
+		"Marca": "Renault",
+		"Modelo": "Sc",
+		"Ano": "1999",
+		"RENAVAM": "87483063903",
+		"Placa": "MZJ-4771",
+		"Cor": "Azul"
+	},
+	{
+		"Marca": "Lada",
+		"Modelo": "Laika 1.6",
+		"Ano": "1991",
+		"RENAVAM": "10211427257",
+		"Placa": "HPF-0626",
+		"Cor": "Marrom"
+	},
+	{
+		"Marca": "Walk",
+		"Modelo": "Buggy  Walk Sport 1.6 8V 58cv",
+		"Ano": "2005",
+		"RENAVAM": "63557025131",
+		"Placa": "KBQ-6834",
+		"Cor": "Branco"
+	},
+	{
+		"Marca": "ASTON MARTIN",
+		"Modelo": "DB9 Coupe 6.0 V12 510cv",
+		"Ano": "2014",
+		"RENAVAM": "11421814212",
+		"Placa": "IAB-8884",
+		"Cor": "Marrom"
+	},
+	{
+		"Marca": "BMW",
+		"Modelo": "428i Gran Coupe Sport 2.0 TB 245cv",
+		"Ano": "2015",
+		"RENAVAM": "33319157853",
+		"Placa": "MTW-6473",
+		"Cor": "Dourado"
+	}
+]
